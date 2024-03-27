@@ -14,8 +14,10 @@ My project involves utilizing the open source software, OpenCFU, and adding to i
  Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
 
 This project has two objectives: 
+   
    1st - accurately count the amount of colonies present on the blood culture plate and use the following formula to get cfu/mL
 (Amount of colonies*dilution factor)/plate volume
+  
    2nd - identify if the bacteria is coagulase-negative staphylococci or bacillus cereus
 
 Design doc link: https://docs.google.com/document/d/10YNkCs68rQQmlnKruuMl40-eTFvVoR2egbQLWPs-eTA/edit?usp=sharing
