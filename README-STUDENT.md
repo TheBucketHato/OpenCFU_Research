@@ -7,16 +7,26 @@
 <strong>FILL THIS IN</strong><br/>
 Answer these questions: What is your project? Why'd you build it?
 
+My project involves utilizing the open source software, OpenCFU, and adding to it the ability to calculate density (cfu/mL), buttons to calculate the dilution factor, and overall reducing its variance (increasing accuracy) using the annotated dataset for deep learning by editing its current masks and formulas. Another goal was for it to classify coagulase negative staphylococcus or bacillus cereus, the top two most common blood culture contaminants, responsible for 70-80% of samples. I wanted to improve this technology as it is currently a manual process does by CLS (clinical laboratory scientists) who work long hours in the lab, and to increase their efficiency and ease their workload. Automated machines can also be very expensive, limiting access to certain hospital budgets. Thus I wanted to make this more accessible to others.
+
 <h2>Goal and requirements</h2>
 <strong>FILL THIS IN</strong><br/>
  Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
+This project has two objectives: 
+   1st - accurately count the amount of colonies present on the blood culture plate and use the following formula to get cfu/mL
+(Amount of colonies*dilution factor)/plate volume
+   2nd - identify if the bacteria is coagulase-negative staphylococci or bacillus cereus
+
+Design doc link: https://docs.google.com/document/d/10YNkCs68rQQmlnKruuMl40-eTFvVoR2egbQLWPs-eTA/edit?usp=sharing
  
  <h3>Sprint Goal</h3>
 <strong>FILL THIS IN</strong><br/>
+Potentially download OpenCFU into a Raspberry pi and prepare research slides for competition. 
 
 <h2>Key learnings</h2>
 <strong>FILL THIS IN</strong><br/>
 So... what did you learn? (start this, but **come back to it at the end of the sprint**)
+I learned a lot of the different approaches of AI, such as few shot modeling and how different algorithms to process images. In addition, I also learned a lot of what happens in the biology side, and current colony counting process in the hospital laboratories. 
 
 <h2>Running your project</h2>
 <strong>FILL THIS IN</strong><br/>
