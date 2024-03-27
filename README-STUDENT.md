@@ -12,6 +12,7 @@ My project involves utilizing the open source software, OpenCFU, and adding to i
 <h2>Goal and requirements</h2>
 <strong>FILL THIS IN</strong><br/>
  Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
+
 This project has two objectives: 
    1st - accurately count the amount of colonies present on the blood culture plate and use the following formula to get cfu/mL
 (Amount of colonies*dilution factor)/plate volume
@@ -26,12 +27,14 @@ Potentially download OpenCFU into a Raspberry pi and prepare research slides for
 <h2>Key learnings</h2>
 <strong>FILL THIS IN</strong><br/>
 So... what did you learn? (start this, but **come back to it at the end of the sprint**)
+
 I learned a lot of the different approaches of AI, such as few shot modeling and how different algorithms to process images. In addition, I also learned a lot of what happens in the biology side, and current colony counting process in the hospital laboratories. 
 
 <h2>Running your project</h2>
 <strong>FILL THIS IN</strong><br/>
 How would I, or anyone who comes across this project, run this project? Make sure to include all the steps.
 
+To run this project, you would have to download all of the files listed here onto VS Code. You can also download separate culture images online and test OpenCFU's accuracy by uploading the images to the software when it is booted. 
 <h2>Misc.</h2>
 Feel free to add anything else you want here :)
 
