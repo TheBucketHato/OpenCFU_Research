@@ -30,13 +30,14 @@ Potentially download OpenCFU into a Raspberry pi and prepare research slides for
 <strong>FILL THIS IN</strong><br/>
 So... what did you learn? (start this, but **come back to it at the end of the sprint**)
 
-I learned a lot of the different approaches of AI, such as few shot modeling and how different algorithms to process images. In addition, I also learned a lot of what happens in the biology side, and current colony counting process in the hospital laboratories. 
+I learned a lot of the different approaches of AI, such as few shot modeling and how different algorithms to process images. In addition, I also learned a lot of what happens in the biology side, and current colony counting process in hospital laboratories. 
 
 <h2>Running your project</h2>
 <strong>FILL THIS IN</strong><br/>
 How would I, or anyone who comes across this project, run this project? Make sure to include all the steps.
 
-To run this project, you would have to download all of the files listed here onto VS Code. You can also download separate culture images online and test OpenCFU's accuracy by uploading the images to the software when it is booted. 
+To run this project, you would have to download all of the files listed here onto VS Code. You can also download separate culture images online and test OpenCFU's accuracy by uploading the images to the software when it is booted. When the software is running, you can change the radius of colony that you are looking for, and verify OpenCFU's accuracy from an annotated dataset (one that provides the correct CFU values). You can calculate percent variance as well. 
+
 <h2>Misc.</h2>
 Feel free to add anything else you want here :)
 
