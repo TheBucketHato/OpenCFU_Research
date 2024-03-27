@@ -1,7 +1,7 @@
 <div align="center">(optional) Project photo</div>
 <h1 align="center">A Few Shot AI Modeling Approach Toward Colony Classification and Identification
 </h1>
-<p align="center"><strong>One-line description</strong>
+<p align="center"><strong> Software that counts and sorts bacterial colonies</strong>
 <br/>
 
 <h2>About</h2>
